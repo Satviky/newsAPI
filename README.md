@@ -1,4 +1,5 @@
 # newsAPI
+Using api for BBC news
 
 ### 📊 Repository Activity
 
